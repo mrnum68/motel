@@ -1,0 +1,44 @@
+.p-0{padding:0;}
+.ad-top
+{
+	border-bottom: 1px solid #ccc;
+	padding: 20px 10px;
+}
+.ad-image{padding: 0;}
+
+.ad-content
+{
+	padding: 20px 5px;
+	min-height: 222px;
+	border-bottom: 1px dashed #ccc;
+}
+.ad-content:last-child
+{
+	border:none;
+}
+.ad-wrapper
+{
+	padding: 20px 10px;
+	border: 1px solid #ccc;
+	margin-bottom: 10px; border-radius: 4px;
+}
+.ad-wrapper-dash
+{
+	padding: 20px 10px;
+	border: 1px dashed #ccc;
+	margin-bottom: 10px; border-radius: 4px;
+}
+
+.ad-wrapper .item
+{
+	border-bottom: 1px dashed #ccc;
+	padding: 10px 0px;
+}
+.ad-wrapper .item:last-child
+{
+	border:none;
+}
+
+@media only screen and (max-width:768px){
+	.ad-image{padding:15px;}
+}

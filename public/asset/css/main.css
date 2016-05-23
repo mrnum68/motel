@@ -1,0 +1,8 @@
+body{background: url(../../asset/images/bg-404.png) repeat;}
+
+.main-errors{text-align: center;font-weight: normal;padding: 0;color:#808080;}
+.main-errors .errors-page{padding:0;background: white;}
+.main-errors .top{background: #00bff3;padding: 20px 30px;}
+.main-errors .bottom{padding: 30px 10px;padding-bottom: 100px;}
+
+.main-errors h1{font-size: 40px;text-shadow: 2px 5px 10px #ccc;}
